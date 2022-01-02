@@ -1,1 +1,3 @@
-## Forking Skand boi's website, and modifying it because the current template that I'm using does not render quite well on mobile devices.
+# Chapter Nine and Three Quarters: Writing on the Wall
+
+My space on the interweb where I intend to host my musings.
